@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gumen\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442 \u041A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0421\u0430\u0439\u0442\\GamerStatsPlatform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2A6683-1710-404E-8E73-884C6CD77AE1}|GamerStats.API\\GamerStats.API.csproj|c:\\users\\gumen\\desktop\\\u043F\u0440\u043E\u0435\u043A\u0442 \u043A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0441\u0430\u0439\u0442\\gamerstatsplatform\\gamerstats.api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2A6683-1710-404E-8E73-884C6CD77AE1}|GamerStats.API\\GamerStats.API.csproj|solutionrelative:gamerstats.api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2A6683-1710-404E-8E73-884C6CD77AE1}|GamerStats.API\\GamerStats.API.csproj|c:\\users\\gumen\\desktop\\\u043F\u0440\u043E\u0435\u043A\u0442 \u043A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0441\u0430\u0439\u0442\\gamerstatsplatform\\gamerstats.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2A6683-1710-404E-8E73-884C6CD77AE1}|GamerStats.API\\GamerStats.API.csproj|solutionrelative:gamerstats.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2A6683-1710-404E-8E73-884C6CD77AE1}|GamerStats.API\\GamerStats.API.csproj|c:\\users\\gumen\\desktop\\\u043F\u0440\u043E\u0435\u043A\u0442 \u043A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0441\u0430\u0439\u0442\\gamerstatsplatform\\gamerstats.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2A6683-1710-404E-8E73-884C6CD77AE1}|GamerStats.API\\GamerStats.API.csproj|solutionrelative:gamerstats.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2A6683-1710-404E-8E73-884C6CD77AE1}|GamerStats.API\\GamerStats.API.csproj|c:\\users\\gumen\\desktop\\\u043F\u0440\u043E\u0435\u043A\u0442 \u043A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0441\u0430\u0439\u0442\\gamerstatsplatform\\gamerstats.api\\controllers\\gamestatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2A6683-1710-404E-8E73-884C6CD77AE1}|GamerStats.API\\GamerStats.API.csproj|solutionrelative:gamerstats.api\\controllers\\gamestatscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2A6683-1710-404E-8E73-884C6CD77AE1}|GamerStats.API\\GamerStats.API.csproj|c:\\users\\gumen\\desktop\\\u043F\u0440\u043E\u0435\u043A\u0442 \u043A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0441\u0430\u0439\u0442\\gamerstatsplatform\\gamerstats.api\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2A6683-1710-404E-8E73-884C6CD77AE1}|GamerStats.API\\GamerStats.API.csproj|solutionrelative:gamerstats.api\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2A6683-1710-404E-8E73-884C6CD77AE1}|GamerStats.API\\GamerStats.API.csproj|c:\\users\\gumen\\desktop\\\u043F\u0440\u043E\u0435\u043A\u0442 \u043A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0441\u0430\u0439\u0442\\gamerstatsplatform\\gamerstats.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2A6683-1710-404E-8E73-884C6CD77AE1}|GamerStats.API\\GamerStats.API.csproj|solutionrelative:gamerstats.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2A6683-1710-404E-8E73-884C6CD77AE1}|GamerStats.API\\GamerStats.API.csproj|c:\\users\\gumen\\desktop\\\u043F\u0440\u043E\u0435\u043A\u0442 \u043A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0441\u0430\u0439\u0442\\gamerstatsplatform\\gamerstats.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2A6683-1710-404E-8E73-884C6CD77AE1}|GamerStats.API\\GamerStats.API.csproj|solutionrelative:gamerstats.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2A6683-1710-404E-8E73-884C6CD77AE1}|GamerStats.API\\GamerStats.API.csproj|c:\\users\\gumen\\desktop\\\u043F\u0440\u043E\u0435\u043A\u0442 \u043A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0441\u0430\u0439\u0442\\gamerstatsplatform\\gamerstats.api\\models\\gamestats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2A6683-1710-404E-8E73-884C6CD77AE1}|GamerStats.API\\GamerStats.API.csproj|solutionrelative:gamerstats.api\\models\\gamestats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2A6683-1710-404E-8E73-884C6CD77AE1}|GamerStats.API\\GamerStats.API.csproj|c:\\users\\gumen\\desktop\\\u043F\u0440\u043E\u0435\u043A\u0442 \u043A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0441\u0430\u0439\u0442\\gamerstatsplatform\\gamerstats.api\\models\\gamestatscreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2A6683-1710-404E-8E73-884C6CD77AE1}|GamerStats.API\\GamerStats.API.csproj|solutionrelative:gamerstats.api\\models\\gamestatscreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2A6683-1710-404E-8E73-884C6CD77AE1}|GamerStats.API\\GamerStats.API.csproj|c:\\users\\gumen\\desktop\\\u043F\u0440\u043E\u0435\u043A\u0442 \u043A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0441\u0430\u0439\u0442\\gamerstatsplatform\\gamerstats.api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2A6683-1710-404E-8E73-884C6CD77AE1}|GamerStats.API\\GamerStats.API.csproj|solutionrelative:gamerstats.api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2A6683-1710-404E-8E73-884C6CD77AE1}|GamerStats.API\\GamerStats.API.csproj|c:\\users\\gumen\\desktop\\\u043F\u0440\u043E\u0435\u043A\u0442 \u043A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0441\u0430\u0439\u0442\\gamerstatsplatform\\gamerstats.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2A6683-1710-404E-8E73-884C6CD77AE1}|GamerStats.API\\GamerStats.API.csproj|solutionrelative:gamerstats.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gumen\\AppData\\Roaming\\Microsoft\\UserSecrets\\2745ccfa-4d6c-4494-97ce-6709dc96f0bd\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2A6683-1710-404E-8E73-884C6CD77AE1}|GamerStats.API\\GamerStats.API.csproj|c:\\users\\gumen\\desktop\\\u043F\u0440\u043E\u0435\u043A\u0442 \u043A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0441\u0430\u0439\u0442\\gamerstatsplatform\\gamerstats.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D2A6683-1710-404E-8E73-884C6CD77AE1}|GamerStats.API\\GamerStats.API.csproj|solutionrelative:gamerstats.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2A6683-1710-404E-8E73-884C6CD77AE1}|GamerStats.API\\GamerStats.API.csproj|c:\\users\\gumen\\desktop\\\u043F\u0440\u043E\u0435\u043A\u0442 \u043A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0441\u0430\u0439\u0442\\gamerstatsplatform\\gamerstats.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2A6683-1710-404E-8E73-884C6CD77AE1}|GamerStats.API\\GamerStats.API.csproj|solutionrelative:gamerstats.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2A6683-1710-404E-8E73-884C6CD77AE1}|GamerStats.API\\GamerStats.API.csproj|c:\\users\\gumen\\desktop\\\u043F\u0440\u043E\u0435\u043A\u0442 \u043A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0441\u0430\u0439\u0442\\gamerstatsplatform\\gamerstats.api\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2A6683-1710-404E-8E73-884C6CD77AE1}|GamerStats.API\\GamerStats.API.csproj|solutionrelative:gamerstats.api\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2A6683-1710-404E-8E73-884C6CD77AE1}|GamerStats.API\\GamerStats.API.csproj|c:\\users\\gumen\\desktop\\\u043F\u0440\u043E\u0435\u043A\u0442 \u043A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0441\u0430\u0439\u0442\\gamerstatsplatform\\gamerstats.api\\migrations\\20250618090054_addcommentandratingtogamestats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2A6683-1710-404E-8E73-884C6CD77AE1}|GamerStats.API\\GamerStats.API.csproj|solutionrelative:gamerstats.api\\migrations\\20250618090054_addcommentandratingtogamestats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameStatsController.cs",
+              "DocumentMoniker": "C:\\Users\\gumen\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442 \u041A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0421\u0430\u0439\u0442\\GamerStatsPlatform\\GamerStats.API\\Controllers\\GameStatsController.cs",
+              "RelativeDocumentMoniker": "GamerStats.API\\Controllers\\GameStatsController.cs",
+              "ToolTip": "C:\\Users\\gumen\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442 \u041A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0421\u0430\u0439\u0442\\GamerStatsPlatform\\GamerStats.API\\Controllers\\GameStatsController.cs",
+              "RelativeToolTip": "GamerStats.API\\Controllers\\GameStatsController.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAiwOwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T18:54:01.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gumen\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442 \u041A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0421\u0430\u0439\u0442\\GamerStatsPlatform\\GamerStats.API\\Program.cs",
+              "RelativeDocumentMoniker": "GamerStats.API\\Program.cs",
+              "ToolTip": "C:\\Users\\gumen\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442 \u041A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0421\u0430\u0439\u0442\\GamerStatsPlatform\\GamerStats.API\\Program.cs",
+              "RelativeToolTip": "GamerStats.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:20:10.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GamesController.cs",
+              "DocumentMoniker": "C:\\Users\\gumen\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442 \u041A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0421\u0430\u0439\u0442\\GamerStatsPlatform\\GamerStats.API\\Controllers\\GamesController.cs",
+              "RelativeDocumentMoniker": "GamerStats.API\\Controllers\\GamesController.cs",
+              "ToolTip": "C:\\Users\\gumen\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442 \u041A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0421\u0430\u0439\u0442\\GamerStatsPlatform\\GamerStats.API\\Controllers\\GamesController.cs",
+              "RelativeToolTip": "GamerStats.API\\Controllers\\GamesController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAcwIQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T18:46:34.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameStats.cs",
+              "DocumentMoniker": "C:\\Users\\gumen\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442 \u041A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0421\u0430\u0439\u0442\\GamerStatsPlatform\\GamerStats.API\\Models\\GameStats.cs",
+              "RelativeDocumentMoniker": "GamerStats.API\\Models\\GameStats.cs",
+              "ToolTip": "C:\\Users\\gumen\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442 \u041A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0421\u0430\u0439\u0442\\GamerStatsPlatform\\GamerStats.API\\Models\\GameStats.cs",
+              "RelativeToolTip": "GamerStats.API\\Models\\GameStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:18:24.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\gumen\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442 \u041A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0421\u0430\u0439\u0442\\GamerStatsPlatform\\GamerStats.API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "GamerStats.API\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\gumen\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442 \u041A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0421\u0430\u0439\u0442\\GamerStatsPlatform\\GamerStats.API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "GamerStats.API\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T04:46:58.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\gumen\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442 \u041A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0421\u0430\u0439\u0442\\GamerStatsPlatform\\GamerStats.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "GamerStats.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\gumen\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442 \u041A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0421\u0430\u0439\u0442\\GamerStatsPlatform\\GamerStats.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "GamerStats.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAmwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T18:57:15.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\gumen\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442 \u041A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0421\u0430\u0439\u0442\\GamerStatsPlatform\\GamerStats.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "GamerStats.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\gumen\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442 \u041A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0421\u0430\u0439\u0442\\GamerStatsPlatform\\GamerStats.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "GamerStats.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T18:49:35.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250618090054_AddCommentAndRatingToGameStats.cs",
+              "DocumentMoniker": "C:\\Users\\gumen\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442 \u041A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0421\u0430\u0439\u0442\\GamerStatsPlatform\\GamerStats.API\\Migrations\\20250618090054_AddCommentAndRatingToGameStats.cs",
+              "RelativeDocumentMoniker": "GamerStats.API\\Migrations\\20250618090054_AddCommentAndRatingToGameStats.cs",
+              "ToolTip": "C:\\Users\\gumen\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442 \u041A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0421\u0430\u0439\u0442\\GamerStatsPlatform\\GamerStats.API\\Migrations\\20250618090054_AddCommentAndRatingToGameStats.cs",
+              "RelativeToolTip": "GamerStats.API\\Migrations\\20250618090054_AddCommentAndRatingToGameStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:00:54.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameStatsCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\gumen\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442 \u041A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0421\u0430\u0439\u0442\\GamerStatsPlatform\\GamerStats.API\\Models\\GameStatsCreateDto.cs",
+              "RelativeDocumentMoniker": "GamerStats.API\\Models\\GameStatsCreateDto.cs",
+              "ToolTip": "C:\\Users\\gumen\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442 \u041A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0421\u0430\u0439\u0442\\GamerStatsPlatform\\GamerStats.API\\Models\\GameStatsCreateDto.cs",
+              "RelativeToolTip": "GamerStats.API\\Models\\GameStatsCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T19:29:19.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\gumen\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442 \u041A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0421\u0430\u0439\u0442\\GamerStatsPlatform\\GamerStats.API\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "GamerStats.API\\Dtos\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\gumen\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442 \u041A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0421\u0430\u0439\u0442\\GamerStatsPlatform\\GamerStats.API\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "GamerStats.API\\Dtos\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T06:33:48.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\gumen\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442 \u041A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0421\u0430\u0439\u0442\\GamerStatsPlatform\\GamerStats.API\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "GamerStats.API\\Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\gumen\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442 \u041A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0421\u0430\u0439\u0442\\GamerStatsPlatform\\GamerStats.API\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "GamerStats.API\\Dtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T06:36:03.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\gumen\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442 \u041A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0421\u0430\u0439\u0442\\GamerStatsPlatform\\GamerStats.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "GamerStats.API\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\gumen\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442 \u041A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0421\u0430\u0439\u0442\\GamerStatsPlatform\\GamerStats.API\\Models\\User.cs",
+              "RelativeToolTip": "GamerStats.API\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:17:45.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\gumen\\AppData\\Roaming\\Microsoft\\UserSecrets\\2745ccfa-4d6c-4494-97ce-6709dc96f0bd\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\2745ccfa-4d6c-4494-97ce-6709dc96f0bd\\secrets.json",
+              "ToolTip": "C:\\Users\\gumen\\AppData\\Roaming\\Microsoft\\UserSecrets\\2745ccfa-4d6c-4494-97ce-6709dc96f0bd\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\2745ccfa-4d6c-4494-97ce-6709dc96f0bd\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T19:10:44.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gumen\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442 \u041A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0421\u0430\u0439\u0442\\GamerStatsPlatform\\GamerStats.API\\appsettings.json",
+              "RelativeDocumentMoniker": "GamerStats.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\gumen\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442 \u041A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0421\u0430\u0439\u0442\\GamerStatsPlatform\\GamerStats.API\\appsettings.json",
+              "RelativeToolTip": "GamerStats.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T14:19:28.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gumen\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442 \u041A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0421\u0430\u0439\u0442\\GamerStatsPlatform\\GamerStats.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "GamerStats.API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\gumen\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442 \u041A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0421\u0430\u0439\u0442\\GamerStatsPlatform\\GamerStats.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "GamerStats.API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:19:17.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\gumen\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442 \u041A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0421\u0430\u0439\u0442\\GamerStatsPlatform\\GamerStats.API\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "GamerStats.API\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\gumen\\Desktop\\\u041F\u0440\u043E\u0435\u043A\u0442 \u041A\u0430\u0440\u0430\u0442\u0430\u0435\u0432\\\u0421\u0430\u0439\u0442\\GamerStatsPlatform\\GamerStats.API\\Models\\Game.cs",
+              "RelativeToolTip": "GamerStats.API\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T14:18:10.105Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
